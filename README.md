@@ -1,6 +1,8 @@
 Fake News Detection Using ML Classification and Boosting Algorithms
+
 Overview
-This project aims to create a machine learning model capable of detecting and classifying fake news articles. By leveraging various classification algorithms and boosting techniques, the system provides reliable predictions to help identify misinformation.
+This project aims to create a machine learning model capable of detecting and classifying fake news articles. 
+By leveraging various classification algorithms and boosting techniques, the system provides reliable predictions to help identify misinformation.
 
 Features
 Text Preprocessing: Tokenization, stopword removal, and vectorization.
